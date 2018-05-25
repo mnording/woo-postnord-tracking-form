@@ -9,7 +9,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Woo Postnord Tracking Form
- * Plugin URI:  https://github.com/mnording/woocommerce-woo-postnord-tracking-form
+ * Plugin URI:  https://github.com/mnording/woo-postnord-tracking-form
  * Description: Enabling fetching tracking info from Postnord.
  * Version:     1.0.1
  * Author:      Mnording
