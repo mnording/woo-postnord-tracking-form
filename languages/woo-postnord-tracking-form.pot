@@ -1,0 +1,79 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Postnord Tracking Form\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-25 07:20+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:57
+msgid "Api Key"
+msgstr ""
+
+#: functions.php:59
+msgid "Click here for Developer Portal"
+msgstr ""
+
+#: functions.php:62
+msgid "Create Debug log?"
+msgstr ""
+
+#: functions.php:119
+msgid "Date"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enabling fetching tracking info from postnord Freight."
+msgstr ""
+
+#: functions.php:121
+msgid "Event"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/mnording/woocommerce-woo-postnord-tracking-form"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mnording.com"
+msgstr ""
+
+#: functions.php:120
+msgid "Location"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mnording"
+msgstr ""
+
+#: functions.php:81
+msgid "Package ID"
+msgstr ""
+
+#: functions.php:82
+msgid "Track package"
+msgstr ""
+
+#: functions.php:59
+msgid "What is your API Key?"
+msgstr ""
+
+#. Name of the plugin
+msgid "Woo Postnord Tracking Form"
+msgstr ""
+
+#: functions.php:63
+msgid "Yes"
+msgstr ""
+
+#: functions.php:97
+msgid "Your shipment:"
+msgstr ""
